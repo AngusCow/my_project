@@ -28,13 +28,8 @@ How to run
 練習： [ptt_nba版](web_spider/nba.csv)
 
 
-How to run
-> cd snake_game
-> python snake.py
-
-How to run
-> cd snake_game
-> python snake.py
+## 資料分析
+練習： [肺炎確診資料](pandas/covid19.csv)
 
 ---
 ## github指令
