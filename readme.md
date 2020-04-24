@@ -12,7 +12,16 @@
 
 How to run
 > cd snake_game
-> python snake.py  
+> python snake.py 
+
+
+## 網頁
+![web](pic/webpage.png)
+
+
+How to run
+> cd snake_game
+> python snake.py
 
 ---
 ## github指令
