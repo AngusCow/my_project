@@ -6,6 +6,8 @@
 - [x] 網頁爬蟲
 - [x] github
 
+## 貪食蛇
+![snake](pic/snake.png)
 
 ---
 ## github指令
